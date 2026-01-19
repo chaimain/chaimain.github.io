@@ -1,0 +1,392 @@
+{
+  "basics": {
+    "name": "Chaitanya Priyadarshi",
+    "email": [
+      "chaitanya.priyadarshi@ifj.edu.pl",
+      "chaitanya.p.astrphys@gmail.com"
+    ],
+    "phone": "",
+    "website": "https://chaimain.github.io",
+    "summary": "Researcher of Cosmic Rays. Currently working with the Pierre Auger Observatory. Member of the Cherenkov Telescope Array Observatory Consortium.",
+    "location": {
+      "address": "",
+      "postalCode": "",
+      "city": "Kraków",
+      "countryCode": "PL",
+      "region": "Małopolskie"
+    },
+    "profiles": [
+      {
+        "network": "Google Scholar",
+        "username": "",
+        "url": "https://scholar.google.com/citations?user=4zMkGnkAAAAJ"
+      },
+      {
+        "network": "ResearchGate",
+        "username": "",
+        "url": "https://www.researchgate.net/profile/Chaitanya-Priyadarshi"
+      },
+      {
+        "network": "ORCID",
+        "username": "",
+        "url": "https://orcid.org/0000-0002-9160-9617"
+      },
+      {
+        "network": "GitHub",
+        "username": "chaimain",
+        "url": "https://github.com/chaimain"
+      },
+      {
+        "network": "GitLab",
+        "username": "chaimain",
+        "url": "https://gitlab.com/chaimain"
+      }
+    ]
+  },
+  "work": [
+    {
+      "employer": "Instytut Fizyki Jądrowej im. Henryka Niewodniczańskiego Polskiej Akademii Nauk (IFJ PAN)",
+      "division": "NO1: Particle and Astroparticle Physics",
+      "department": "NZ15: Cosmic Ray Research and Neutrino Studies",
+      "city": "Kraków",
+      "country": "Poland",
+      "position": "Adjunct (Assistant Professor)",
+      "website": "https://www.auger.ifj.edu.pl/",
+      "startDate": "2024-09-01",
+      "endDate": "",
+      "summary": "Researcher of Ultra-High Energy Cosmic Rays with the Pierre Auger Observatory"
+    },
+    {
+      "employer": "Institut de Física d´Altes Energies (IFAE)",
+      "group": "Gamma-ray Astronomy",
+      "city": "Barcelona",
+      "country": "Spain",
+      "position": "Doctoral Researcher (PhD)",
+      "website": "https://www.ifae.es/",
+      "startDate": "2019-01-14",
+      "endDate": "2024-04-30",
+      "summary": "Member of the Cherenkov Telescope Array Consortium (CTAC) and MAGIC Collaboration. Research on developing software tools for the analysis of data from Large-Sized Telescopes (LST) of the Cherenkov Telescope Array Observatory (CTAO), and analysis of Very-High-Energy gamma-ray data of bright Active Galactic Nuclei using LST-1.",
+      "thesisTitle": "Observation of Active Galactic Nuclei in the gamma-ray band using the first telescope of the CTA North"
+    }
+  ],
+  "education": [
+    {
+      "institution": "Indian Institute of Science (IISc)",
+      "city": "Bangalore",
+      "country": "India",
+      "title": "Junior Research Fellow (JRF)",
+      "area": "Astronomy and Astrophysics",
+      "studyType": "Joint Astronomy Program",
+      "startDate": "2015-08-01",
+      "endDate": "2018-04-30"
+    },
+    {
+      "institution": "Department of Physics, Savitribai Phule Pune University",
+      "city": "Pune",
+      "country": "India",
+      "title": "Masters in Science (M.Sc.)",
+      "area": "Physics",
+      "studyType": "Postgraduate Degree",
+      "startDate": "2012-08-01",
+      "endDate": "2015-03-31"
+    },
+    {
+      "institution": "Fergusson College, Savitribai Phule Pune University",
+      "city": "Pune",
+      "country": "India",
+      "title": "Bachelors in Science (B.Sc.)",
+      "area": "Physics",
+      "studyType": "Graduate Degree",
+      "startDate": "2008-08-01",
+      "endDate": "2011-04-30"
+    }
+  ],
+  "skills": [
+    {
+      "name": "Programming Languages & Tools",
+      "levels": [
+        {
+          "stage": "Advanced",
+          "keywords": [
+            "Python"
+          ]
+        },
+        {
+          "stage": "Intermediate",
+          "keywords": [
+            "C",
+            "C++",
+            "ROOT"
+          ]
+        },
+        {
+          "stage": "Beginner",
+          "keywords": [
+            "HTML",
+            "Fortran",
+            "Bash",
+            "Java"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Data Analysis & Machine Learning",
+      "levels": [
+        {
+          "stage": "Advanced",
+          "keywords": [
+            "NumPy",
+            "Pandas",
+            "Matplotlib"
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Astronomy & Astrophysics Software",
+      "levels": [
+        {
+          "stage": "Advanced",
+          "keywords": [
+            "Gammapy",
+            "pyirf"
+          ]
+        },
+        {
+          "stage": "Main Developer",
+          "packages": [
+            {
+              "name": "uhecluster",
+              "url": "https://gitlab.com/uhecluster/uhecluster",
+              "description": "Direction-Time Clustering Algorithms to detect Ultra High Energy Cosmic Ray (UHECR) Photons",
+              "role": "Project manager, main developer and maintainer"
+            },
+            {
+              "name": "asgardpy",
+              "url": "https://github.com/chaimain/asgardpy",
+              "documentation": "https://asgardpy.readthedocs.io/en/latest/",
+              "description": "Agardpy: Analysis Software for GAmma-Ray Data in Python, a wrapper on the Gammapy software, for multi-instrument analysis of gamma-ray data",
+              "role": "Project manager, main developer and maintainer"
+            },
+            {
+              "name": "cta-lstchain",
+              "url": "https://github.com/cta-observatory/cta-lstchain",
+              "documentation": "https://cta-observatory.github.io/cta-lstchain/",
+              "description": "testbench software pipeline for analyzing data from the LST prototype of CTAO",
+              "role": "Main Developer of DL3 Tools"
+            }
+          ]
+        }
+      ]
+    }
+  ],
+  "languages": [
+    {
+      "language": "English",
+      "fluency": "Full Professional Proficiency"
+    },
+    {
+      "language": "Hindi",
+      "fluency": "Native or Bilingual Proficiency"
+    },
+    {
+      "language": "Marathi",
+      "fluency": "Limited Working Proficiency"
+    },
+    {
+      "language": "Bengali",
+      "fluency": "Elementary Proficiency"
+    },
+    {
+      "language": "Spanish",
+      "fluency": "Elementary Proficiency"
+    }
+  ],
+  "interests": [
+    {
+      "keywords": [
+        "Active Galactic Nuclei",
+        "Multi-messenger Astrophysics",
+        "Cosmic Rays",
+        "High Energy Astrophysics",
+        "Computational Astrophysics"
+      ]
+    }
+  ],
+  "funds": [
+    {
+      "name": "Marie Skłodowska-Curie Actions - EU Horizon 2020",
+      "role": "Predoctoral Researcher",
+      "startDate": "2019-01-14",
+      "endDate": "2024-03-13",
+      "description": "Predoctoral grant provided under the Barcelona Institute of Science and Technology’s PREBIST program"
+    },
+    {
+      "name": "Council of Scientific & Industrial Research - University Grants Commission (CSIR-UGC) NET, India",
+      "role": "Junior Research Fellow",
+      "startDate": "2015-08-01",
+      "endDate": "2018-04-30",
+      "description": "Doctoral grant provided through the Joint Astronomy Programme of Indian Institute of Science (IISc), Bangalore, India"
+    }
+  ],
+  "references": [],
+  "publications": [
+    {
+      "name": "VHE γ-ray observations of bright BL Lacs with the Large-Sized Telescope prototype",
+      "Collaboration": "CTAO-LST",
+      "publisher": "MNRAS Vol 544 Issue 1",
+      "releaseYear": "2025",
+      "DOI": "https://doi.org/10.1093/mnras/staf1728"
+    },
+    {
+      "name": "Observations of the Crab Nebula and Pulsar with the Large-sized Telescope Prototype of the Cherenkov Telescope Array",
+      "Collaboration": "CTAO-LST",
+      "publisher": "ApJ Vol 956 Num 2 Page 80",
+      "releaseYear": "2023",
+      "DOI": "https://doi.org/10.3847/1538-4357/ace89d"
+    },
+    {
+      "name": "lstchain: An Analysis Pipeline for LST-1, the First Prototype Large-Sized Telescope of CTA",
+      "Collaboration": "CTAO-LST",
+      "publisher": "ASP Conference Series Vol 532 Page 357",
+      "releaseYear": "2020",
+      "website": "https://inspirehep.net/literature/2158628",
+      "github": "https://github.com/cta-observatory/cta-lstchain",
+      "zenodo": "https://doi.org/10.5281/zenodo.6344673"
+    },
+    {
+      "name": "The scintillator surface detector of the Pierre Auger observatory",
+      "Collaboration": "Pierre Auger",
+      "publisher": "Journal of Instrumentation Vol 20 Page P08002",
+      "releaseYear": "2025",
+      "DOI": "https://doi.org/10.1088/1748-0221/20/08/P08002"
+    },
+    {
+      "googlescholar": "https://scholar.google.com/citations?user=4zMkGnkAAAAJ",
+      "inspire-hep": "https://inspirehep.net/authors/1774806?ui-citation-summary=true",
+      "webofscience": "https://www.webofscience.com/wos/author/record/56476892"
+    }
+  ],
+  "presentations": [
+    {
+      "name": "The Analysis of the first blazars by the Large Size Telescope (LST) of the Cherenkov Telescope Array Observatory (CTAO)",
+      "event": "TeV Particle Astrophysics Conference (TeVPA)",
+      "date": "2025-11-03",
+      "location": "Valencia, Spain",
+      "description": "Presented at the behest of the CTAO-LST Collaboration, on a co-authored published work."
+    },
+    {
+      "name": "Ultra-High-Energy Photon Searches with the Pierre Auger Observatory: Constraints, Multi-messenger Synergies, and Future Prospects",
+      "event": "TeV Particle Astrophysics Conference (TeVPA)",
+      "date": "2025-11-05",
+      "location": "Valencia, Spain",
+      "description": "Presented at the behest of the Pierre Auger Collaboration"
+    },
+    {
+      "name": "Space-Time Clustering analysis using Python",
+      "event": "Pierre Auger Collaboration Analysis Meeting",
+      "date": "2025-05-23",
+      "location": "L'Aquila, Italy",
+      "description": "Presented updates on a co-authored work, including an introduction to the uhecluster package"
+    },
+    {
+      "name": "Analysis with First Data from Large Size Telescope of Cherenkov Telescope Array",
+      "event": "International Workshop on High Energy Physics",
+      "date": "2021-09-18",
+      "location": "Benasque, Spain",
+      "description": "Student presentation on the analysis of first data from LST-1"
+    },
+    {
+      "name": "Looking at the night sky in the very high energy range",
+      "event": "Invited PhD Talk - International Women's Day",
+      "date": "2022-03-08",
+      "location": "Bhopal, India",
+      "description": "Invited talk by the IISER Bhopal Astronomy Club, on overview of the astronomy and astrophysics in the very-high-energy gamma-rays regime"
+    },
+    {
+      "type": "Working Group presentations",
+      "groups": [
+        {
+          "name": "Pierre Auger Collaboration Neutral Particles",
+          "period": "2025-present"
+        },
+        {
+          "name": "Pierre Auger Collaboration Space-Time Correlations in Searches for Neutral Particles",
+          "period": "2025-present"
+        },
+        {
+          "name": "CTAO-LST Analysis and Software",
+          "period": "2019-2023"
+        },
+        {
+          "name": "CTAO-LST Extragalactic Physics",
+          "period": "2022-2023"
+        },
+        {
+          "name": "CTAO Analysis and Software",
+          "period": "2019-2023"
+        }
+      ],
+      "description": "Regular presentations on the progress of work in the respective working groups"
+    },
+    {
+      "type": "Collaboration General Meeting presentations",
+      "groups": [
+        {
+          "name": "Pierre Auger Collaboration",
+          "period": "2025-present"
+        },
+        {
+          "name": "CTAO-LST Collaboration",
+          "period": "2020-2023"
+        }
+      ],
+      "description": "Regular presentations on the progress of work in the respective Collaborations' General Meetings"
+    }
+  ],
+  "workshops": [
+    {
+      "name": "Pierre Auger Collaboration OffLine Software Tutorial",
+      "date": "2025-05-16 to 2025-05-17",
+      "location": "L'Aquila, Italy"
+    },{
+      "name": "International Workshop on High Energy Physics",
+      "date": "2021-09-05 to 2021-09-18",
+      "location": "Benasque, Spain"
+    },
+    {
+      "name": "CTAO DL1 Benchmarking Workshop",
+      "date": "2021-03",
+      "location": "Online"
+    },
+    {
+      "name": "MAGIC Software School",
+      "date": "2021-01",
+      "location": "Online"
+    },
+    {
+      "name": "MAGIC Dark Matter Workshop",
+      "date": "2019-01-16 to 2019-01-17",
+      "location": "Barcelona, Spain"
+    }
+  ],
+  "teaching": [
+    {
+      "course": "IFJ PAN Particle Physics Summer Student Programme",
+      "institution": "Instytut Fizyki Jądrowej im. Henryka Niewodniczańskiego Polskiej Akademii Nauk (IFJ PAN)",
+      "startDate": "2025-07-14",
+      "endDate": "2025-08-01",
+      "role": "Project Tutor",
+      "description": "Tutored 2 Bachelor students for a project - Developing Python tools to search for ultra-high-energy photons using clustering algorithms"
+    },
+    {
+      "course": "CTAO-LST Data Analysis School 1 (Online)",
+      "institution": "CTAO-LST Collaboration",
+      "startDate": "2022-01-17",
+      "endDate": "2022-01-21",
+      "role": "Lecturer",
+      "description": "Tutored on CTAO-LST-1 data analysis, from DL2 to DL3 stage using cta-lstchain and for higher-level science analysis using Gammapy"
+    }
+  ]
+}

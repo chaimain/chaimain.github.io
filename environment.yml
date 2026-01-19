@@ -1,0 +1,26 @@
+# Conda environment for using github pages
+# Install:      mamba env create -f environment.yml
+# Update:       mamba env update -f environment.yml
+# Activate:     mamba activate git-page
+# Deactivate:   mamba deactivate git-page
+
+name: git-page
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.14
+  - pip
+  - numpy
+  - scipy
+  - ipython
+  - jupyter
+  - jupyterlab
+  - ipyleaflet
+  - geopy
+  - matplotlib
+  - pybtex
+  # - tqdm
+  #- numba
+  - pip:
+    - getorg
+    - python-frontmatter

@@ -5,7 +5,6 @@
       "chaitanya.priyadarshi@ifj.edu.pl",
       "chaitanya.p.astrphys@gmail.com"
     ],
-    "phone": "",
     "website": "https://chaimain.github.io",
     "summary": "Researcher of Cosmic Rays. Currently working with the Pierre Auger Observatory. Member of the Cherenkov Telescope Array Observatory Consortium.",
     "location": {
@@ -53,7 +52,7 @@
       "position": "Adjunct (Assistant Professor)",
       "website": "https://www.auger.ifj.edu.pl/",
       "startDate": "2024-09-01",
-      "endDate": "",
+      "endDate": "Present",
       "summary": "Researcher of Ultra-High Energy Cosmic Rays with the Pierre Auger Observatory"
     },
     {
@@ -166,14 +165,14 @@
               "name": "asgardpy",
               "url": "https://github.com/chaimain/asgardpy",
               "documentation": "https://asgardpy.readthedocs.io/en/latest/",
-              "description": "Agardpy: Analysis Software for GAmma-Ray Data in Python, a wrapper on the Gammapy software, for multi-instrument analysis of gamma-ray data",
+              "description": "Analysis Software for GAmma-Ray Data in Python, a wrapper on the Gammapy software, for multi-instrument analysis of gamma-ray data",
               "role": "Project manager, main developer and maintainer"
             },
             {
               "name": "cta-lstchain",
               "url": "https://github.com/cta-observatory/cta-lstchain",
               "documentation": "https://cta-observatory.github.io/cta-lstchain/",
-              "description": "testbench software pipeline for analyzing data from the LST prototype of CTAO",
+              "description": "Testbench software pipeline for analyzing data from the LST prototype of CTAO",
               "role": "Main Developer of DL3 Tools"
             }
           ]
@@ -313,7 +312,7 @@
         },
         {
           "name": "Pierre Auger Collaboration Space-Time Correlations in Searches for Neutral Particles",
-          "period": "2025-present"
+          "period": "2025-Present"
         },
         {
           "name": "CTAO-LST Analysis and Software",
@@ -335,7 +334,7 @@
       "groups": [
         {
           "name": "Pierre Auger Collaboration",
-          "period": "2025-present"
+          "period": "2025-Present"
         },
         {
           "name": "CTAO-LST Collaboration",

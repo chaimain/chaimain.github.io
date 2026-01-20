@@ -12,6 +12,7 @@ dependencies:
   - pip
   - numpy
   - scipy
+  - pandas
   - ipython
   - jupyter
   - jupyterlab

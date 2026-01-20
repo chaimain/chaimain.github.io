@@ -249,7 +249,7 @@
       "name": "lstchain: An Analysis Pipeline for LST-1, the First Prototype Large-Sized Telescope of CTA",
       "Collaboration": "CTAO-LST",
       "publisher": "ASP Conference Series Vol 532 Page 357",
-      "releaseYear": "2020",
+      "releaseYear": "2022",
       "website": "https://inspirehep.net/literature/2158628",
       "github": "https://github.com/cta-observatory/cta-lstchain",
       "zenodo": "https://doi.org/10.5281/zenodo.6344673"

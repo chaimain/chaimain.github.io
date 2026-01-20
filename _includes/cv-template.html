@@ -153,7 +153,7 @@
             {% if level.packages %}
               <br>
               {% for package in level.packages %}
-                <a href="{{ package.url }}" target="_blank">{{ package.name }}</a>: {{ package.description }}{% if forloop.last == false %}, {% endif %}
+                <li><a href="{{ package.url }}" target="_blank">{{ package.name }}</a>: {{ package.description }}{% if forloop.last == false %}, {% endif %}</li>
               {% endfor %}
             {% endif %}
           </li>

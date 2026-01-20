@@ -6,21 +6,21 @@ author_profile: true
 ---
 
 You can also find my articles on the following profiles: 
-{% if site.author.googlescholar %}
-  <div class="wordwrap"><a href="{{site.author.googlescholar}}">Google Scholar</a>.</div>
-{% endif %}, 
-{% if site.author.inspire-hep %}
-  <div class="wordwrap"><a href="{{site.author.inspire-hep}}">Inspire-HEP</a>.</div>
-{% endif %}, 
-{% if site.author.webofscience %}
-  <div class="wordwrap"><a href="{{site.author.webofscience}}">Web of Science</a>.</div>
-{% endif %}, 
-{% if site.author.scopus %}
-  <div class="wordwrap"><a href="{{site.author.scopus}}">Scopus</a>.</div>
-{% endif %}, 
-{% if site.author.orcid %}
-  <div class="wordwrap"><a href="{{site.author.orcid}}">ORCID</a>.</div>
-{% endif %}
+<li>{% if site.author.googlescholar %}
+  <div class="wordwrap"><a href="{{site.author.googlescholar}}">Google Scholar</a></div>
+{% endif %}</li>
+<li>{% if site.author.inspire-hep %}
+  <div class="wordwrap"><a href="{{site.author.inspire-hep}}">Inspire-HEP</a></div>
+{% endif %}</li>
+<li>{% if site.author.webofscience %}
+  <div class="wordwrap"><a href="{{site.author.webofscience}}">Web of Science</a></div>
+{% endif %}</li>
+<li>{% if site.author.scopus %}
+  <div class="wordwrap"><a href="{{site.author.scopus}}">Scopus</a></div>
+{% endif %}</li>
+<li>{% if site.author.orcid %}
+  <div class="wordwrap"><a href="{{site.author.orcid}}">ORCID</a></div>
+{% endif %}</li>
 
 {% include base_path %}
 

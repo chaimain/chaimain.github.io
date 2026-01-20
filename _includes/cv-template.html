@@ -150,12 +150,20 @@
               {{ keyword }}{% if forloop.last == false %}, {% endif %}
             {% endfor %}
             {% endif %}
-            {% if level.packages %}
-              <br>
+            <ul>{% if level.packages %}
               {% for package in level.packages %}
                 <li><a href="{{ package.url }}" target="_blank">{{ package.name }}</a>: {{ package.description }}{% if forloop.last == false %}, {% endif %}</li>
               {% endfor %}
-            {% endif %}
+            {% endif %}</ul>
+          </li>
+          {% endfor %}
+        </ul>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+  {% endif %}
+            {% endif %}</ul>
           </li>
           {% endfor %}
         </ul>

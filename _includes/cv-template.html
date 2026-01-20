@@ -82,7 +82,7 @@
           <div class="cv-item-date">{{ education.endDate }}</div>
         </div>
         <div class="cv-item-content">
-          <div class="cv-item-subtitle">{{ education.institution }}{{ education.city }}{{ education.country }}</div>
+          <div class="cv-item-subtitle">{{ education.institution }}, {{ education.city }}, {{ education.country }}</div>
           {% if education.gpa %}
           <div class="cv-item-detail">GPA: {{ education.gpa }}</div>
           {% endif %}
@@ -111,7 +111,7 @@
         </div>
         <div class="cv-item-content">
           <div class="cv-item-subtitle">
-            {{ work.employer }}: {% if work.department %}, {{ work.department }}{% endif %}{% if work.group %}, {{ work.group }}{% endif %}
+            {{ work.employer }}: {% if work.department %} {{ work.department }}{% endif %}{% if work.group %} {{ work.group }}{% endif %}
           </div>
           <div class="cv-item-subtitle">  
             {{ work.city }}, {{ work.country }}
@@ -153,7 +153,7 @@
             {% if level.packages %}
               <br>
               {% for package in level.packages %}
-                <a href="{{ package.url }}" target="_blank">{{ package.name }}: {{ package.description }}</a>{% if forloop.last == false %}, {% endif %}
+                <a href="{{ package.url }}" target="_blank">{{ package.name }}</a>: {{ package.description }}{% if forloop.last == false %}, {% endif %}
               {% endfor %}
             {% endif %}
           </li>
@@ -178,7 +178,7 @@
         </div>
         <div class="cv-item-content">
           <div class="cv-item-subtitle">
-            {% if publication.Collaboration %}{{ publication.Collaboration }}.{% endif %}{{ publication.publisher }}
+            {% if publication.Collaboration %}{{ publication.Collaboration }} Collaboration. {% endif %}{{ publication.publisher }}
           </div>
           {% if publication.summary %}
           <div class="cv-item-detail">{{ publication.summary }}</div>
@@ -224,7 +224,7 @@
       <li class="cv-item">
         <div class="cv-item-header">
           {% if talk.type %} 
-          <div class="cv-item-type">{{ talk.type }}</div>
+          <div class="cv-item-title">{{ talk.type }}</div>
           {% endif %}
           <div class="cv-item-title">{{ talk.name }}</div>
           <div class="cv-item-date">{{ talk.date | slice: 0, 4 }}</div>

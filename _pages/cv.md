@@ -41,11 +41,11 @@ Skills
 * Data Analysis & Machine Learning
   * Advanced: `NumPy`, `Pandas`, `Matplotlib`
 * Astronomy & Astrophysics Software
-  * Advanced: [`Gammapy`](https://www.docs.gammapy.org), [`pyirf`](https://pyirf.readthedocs.io/en/stable/)
+  * Advanced: [Gammapy](https://www.docs.gammapy.org), [pyirf](https://pyirf.readthedocs.io/en/stable/)
   * Main Developer: 
-    * [`uhecluster`](https://gitlab.com/uhecluster/uhecluster): Direction-Time Clustering Algorithms to detect Ultra High Energy Cosmic Ray (UHECR) Photons
-    * [`asgardpy`](https://asgardpy.readthedocs.io/en/latest/): Analysis Software for GAmma-Ray Data in Python, a wrapper on the Gammapy software, for multi-instrument analysis of gamma-ray data
-    * [`cta-lstchain`](https://cta-observatory.github.io/cta-lstchain/): Testbench software pipeline for analyzing data from the LST prototype of CTAO
+    * [uhecluster](https://gitlab.com/uhecluster/uhecluster): Direction-Time Clustering Algorithms to detect Ultra High Energy Cosmic Ray (UHECR) Photons
+    * [asgardpy](https://asgardpy.readthedocs.io/en/latest/): Analysis Software for GAmma-Ray Data in Python, a wrapper on the Gammapy software, for multi-instrument analysis of gamma-ray data
+    * [cta-lstchain](https://cta-observatory.github.io/cta-lstchain/): Testbench software pipeline for analyzing data from the LST prototype of CTAO
 
 Languages
 ======

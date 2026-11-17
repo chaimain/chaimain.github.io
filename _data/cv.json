@@ -106,6 +106,13 @@
       "releaseDate": "2025-10-09",
       "website": "",
       "summary": ""
+    },
+    {
+      "name": "Search for UHE photon sources using direction-time clustering algorithms with a BDT particle discriminant",
+      "publisher": "Proceedings of Science (ECRS2026) 041",
+      "releaseDate": "2026-07-02",
+      "website": "",
+      "summary": ""
     }
   ],
   "presentations": [
@@ -149,6 +156,13 @@
       "event": "Saha Institute of Nuclear Physics",
       "date": "2026-02-10",
       "location": "Kolkata, India",
+      "description": ""
+    },
+    {
+      "name": "Are There Photons Among Ultra-High-Energy Cosmic Rays?",
+      "event": "Instytut Fizyki J\u0105drowej im. Henryka Niewodnicza\u0144skiego Polskiej Akademii Nauk (IFJ PAN)",
+      "date": "2026-06-18",
+      "location": "Krak\u00f3w, Poland",
       "description": ""
     },
     {

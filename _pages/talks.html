@@ -14,3 +14,6 @@ author_profile: true
 {% for post in site.talks reversed %}
   {% include archive-single-talk.html %}
 {% endfor %}
+
+<p>This map is generated from a Jupyter Notebook file in <a href="https://github.com/chaimain/chaimain.github.io/blob/master/talkmap.ipynb">talkmap.ipynb</a>, which mines the location fields in the .md files in _talks/.</p>
+<iframe src="/talkmap/map.html" height="700" width="850" style="border:none;"></iframe>
